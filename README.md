@@ -32,4 +32,5 @@ Whether you're testing SMS security or just looking to understand how different 
    ```bash
    git clone https://github.com/yourusername/SMS-Bomber.git
    cd SMS-Bomber
+   python SMS_CHK.py
    
